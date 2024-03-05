@@ -1,0 +1,9 @@
+.gridItem{
+    width:10px;
+    height:10px;
+    border:5px solid black;
+}
+.container{
+    display: flex;
+
+}
